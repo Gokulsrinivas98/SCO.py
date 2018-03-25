@@ -27,17 +27,17 @@ $ sudo apt-get install python python-dev python-pip
 $ sudo apt-get install python3 python3-dev python3-pip
 ```
 * Install pip first 
-`sudo apt-get install python-pip`  
+```sudo apt-get install python-pip```  
 * Install numpy
-`sudo pip install numpy scipy`
+```sudo pip install numpy scipy```
 * Install Dlib
-`sudo pip install dlib`
+```sudo pip install dlib```
 * Install Imutils
-`sudo pip install imutils`
+```sudo pip install imutils```
 * Install xlib
-`sudo apt-get install  python-xlib`
+```sudo apt-get install python-xlib```
 * Install pynput
-`sudo pip install pynput
+```sudo pip install pynput```
 
 ## References 
 > pyimagesearch.com
