@@ -11,7 +11,6 @@ Smart computer interaction system for the   physically challenged
 * Imutils
 * PyNput
 * Scipy
-* Matplatlib
 
 ## Installation commands
 * Install OpenCV
